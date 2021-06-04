@@ -1,0 +1,16 @@
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.csprojAssemblyReference.cache
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.AssemblyInfoInputs.cache
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.AssemblyInfo.cs
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.csproj.CoreCompileInputs.cache
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.exe
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.deps.json
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.runtimeconfig.json
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.runtimeconfig.dev.json
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.dll
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\ref\Test_Parser.dll
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\bin\Debug\net5.0\Test_Parser.pdb
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.dll
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\ref\Test_Parser.dll
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.pdb
+C:\Users\Lasse\source\repos\Test_Parser\Test_Parser\obj\Debug\net5.0\Test_Parser.genruntimeconfig.cache

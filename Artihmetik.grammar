@@ -1,0 +1,34 @@
+﻿<compilationunit> ::= <members>+
+
+<members> ::= <funcDef> | <variableDefinition> | <expression>
+
+<variableDefinition> ::= <identifier> "=" <expression> 
+
+<expression> ::= <term> "+" <expression> | <term> "-" <expression> | <term>
+
+<term> ::= <power> "*" <term> | <power> "/" <term> | <power> "%" <term> | <power>
+
+<power> ::= <factor> "^" <term> | <factor>
+
+<factor> ::= <groupExpression> | "|" <expression> "|" | <shortPower>
+
+<groupExpression> ::= "-"? "(" <expression> ")"
+
+<funcCall> ::= <identifier> "(" <funcArgList>? ")"
+
+<funcArgList> ::=  <expression> "," <funcArgList> | <expression>
+
+<shortPower> ::= <atom> "⁻" <powerLiterals> | <atom> <powerLiterals>?
+
+<powerLiterals> ::= [¹²³⁴⁵⁶⁷⁸⁹⁰]+
+
+<atom> ::= <number> | <funcCall> | <identifier>
+
+<number> ::= -?[0-9]+(\\.[0-9]+)?
+<identifier> ::= [_a-zA-Z][_a-zA-Z0-9]*
+
+<argList> ::=  <identifier> "," <argList> | <identifier>
+
+<funcDef> ::= <identifier> "(" <argList>? ")" "=" <expression>
+
+-var -(12+3)
